@@ -1,6 +1,7 @@
 # Cypress Test Automation Framework
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9ee0ffb8-7934-4859-a199-ab974877a26a)
+
 
 
 [![cypress-framework](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/detailed/sh3aqa/main&style=flat&logo=cypress)](https://cloud.cypress.io/projects/sh3aqa/runs)
